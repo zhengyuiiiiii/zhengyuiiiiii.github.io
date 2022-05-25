@@ -1,16 +1,13 @@
-<a name="TL8XJ"></a>
 ## 01、在GitHub上新建一个存储库
 注意命名 zhengyuiiiiii.github.io
 
 ---
 
-<a name="XprW4"></a>
 ## 02、安装git并连接github
 git链接地址：[链接](https://git-scm.com/download)
 
 ---
 
-<a name="mRDEk"></a>
 ## 03、生成一个ssh key放到github中
 > ssh -keygen -t rsa -C "452885853@qq.com"
 
@@ -18,7 +15,6 @@ git链接地址：[链接](https://git-scm.com/download)
 
 ---
 
-<a name="lNa84"></a>
 ## 04、用vscode部署
 以vscode作为预设的editor，在终端输入git init
 > git init
