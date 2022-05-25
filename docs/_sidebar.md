@@ -6,5 +6,5 @@
 * 前端技术
     * [javascript](01/javascript/)
     * [echarts](01/echarts/)
-    * [docsify](01/docsify/)
+    * [docsify](01/docsify01/)
 * 后端技术
